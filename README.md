@@ -23,5 +23,4 @@ from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
 •	the imported classifiers from scikit-learn (RandomForestClassifier, SVC, and DecisionTreeClassifier) are used to create instances of machine learning models for classification tasks. These models are trained on input data and evaluated using cross-validation
 from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score:
-•	The imported functions from scikit-learn (confusion_matrix, accuracy_score, precision_score, and recall_score) are used to compute evaluation metrics such as confusion matrices, accuracy, precision, and recall, respectively, for evaluating the performance of machine learning models
-![image](https://github.com/user-attachments/assets/e3a719b1-a015-46e3-bfcb-8663c296e860)
+•	The imported functions from scikit-learn (confusion_matrix, accuracy_score, precision_score, and recall_score) are used to compute evaluation metrics such as confusion matrices, accuracy, precision, and recall, respectively, for evaluating the performance of machine learning models)
